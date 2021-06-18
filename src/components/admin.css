@@ -1,0 +1,39 @@
+.top-heading{
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+.admin-heading{
+    text-align: left;
+    font-size: 10rem;
+
+}
+
+.site-info{
+    border: 2px solid black;
+}
+/* -------------------------------------------------------------------------------------------------------------------------------------------- */
+.home-page-control-heading{
+    margin: 50px 20px 30px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+/* ------------------------------------------------------------------------------------------------------------------------------------------- */
+.about-team-heading{
+    margin: 50px 20px 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    align-items: center;
+}
+
+.add-team-members{
+    text-align: right;
+}
+
+/* ---------------------------------------------------------------- */
+
+.gallery-data-navs{
+    margin: 40px;
+}
+
+.category-gallery{
+    cursor: pointer;
+}
